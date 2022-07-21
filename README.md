@@ -2,19 +2,19 @@
     SELAMAT DATANG DI SC SPAM SMS
     BUAT NGERJAIN TEMEN / MANTAN / SPAM PENIPU
 # INSTALL BAHAN
-     -apt update && apt upgrade -y
-     -pkg install python
-     -pkg install bash
-     -pkg install figlet
-     -pkg install nano
-     -pkg install ruby
-     -gem install lolcat
-     -pkg install git
-     -pkg install php
-     -pip install colorma
-     -git clone https://github.com/R4L4N-XD/spamriper
-     -cd spamriper
-     -python spammer.py
+     - apt update && apt upgrade -y
+     - pkg install python
+     - pkg install bash
+     - pkg install figlet
+     - pkg install nano
+     - pkg install ruby
+     - gem install lolcat
+     - pkg install git
+     - pkg install php
+     - pip install colorma
+     - git clone https://github.com/R4L4N-XD/spamriper
+     - cd spamriper
+     - python spammer.py
 
 # MY SOCIAL MEDIA
  ​[![](https://img.shields.io/badge/Youtube-blue?logo=Youtube&logoColor=red&labelColor=white)](https://youtube.com/channel/UCwCRIqqgKIalGxA1lTs6gWg)
