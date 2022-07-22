@@ -16,10 +16,10 @@ Download Apk Termuxnya Disini 🌟
      $ gem install lolcat
      $ pkg install git
      $ pkg install php
-     $ pip install colorma
+     $ pip install coloroma
      $ git clone https://github.com/R4L4N-XD/spamriper
      $ cd spamriper
-     $ python spammers.py
+     $ python spammer.py
 ```
 # MY SOCIAL MEDIA
  ​[![](https://img.shields.io/badge/Youtube-blue?logo=Youtube&logoColor=red&labelColor=white)](https://youtube.com/channel/UCwCRIqqgKIalGxA1lTs6gWg)
